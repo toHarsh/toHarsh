@@ -1,11 +1,10 @@
-
 <img height="500" src="https://raw.githubusercontent.com/toHarsh/toHarsh.github.io/main/static/images/bg-4.png" alt="profile">
 
-<h2 style="text-align: center;">💻 I’m Currently Working On</h2>
+<h1 style="text-align: center;">💻 I’m Currently Working On</h1>
 <h5>Working Simultaneously on React, Flutter, Flask and Web-Scrapping(Selenium and Beautiful-Soup) based projects. But I wish to focus more on Machine learning.</h5>
-<br><h2>🌱 My New Interests Are</h2>
+<br><h1>🌱 My New Interests Are</h1>
 <h5>Machine Learning, Ethical Hacking, Web-Scrapping, Laws of UX......many more light years to cover!</h5>
-<br><h2>🛠️ Languages| Frameworks| Tools I work on...</h2>
+<br><h1>🛠️ Languages| Frameworks| Tools I work on...</h1>
 <div style="display:flex;">
   <a><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Html"></a>
   <a><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></a>
@@ -24,15 +23,17 @@
   <a><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></a>
 
 </div>
-<br><h2>📈 Github Repo Stats</h2>
+
+<div>
+<br><h1>📫 How To Reach Me:</h1>
+<h5>Visit <a href="https://toharsh.github.io/" target="_blank" style="color: blueviolet;">My Website</a> ,choose a communication medium and connect!</h5>
+</div>
+
+<br><h1>📈 Github Repo Stats</h1>
 <div style="display:flex;">
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=toHarsh&bg_color=171717&text_color=ffffff&icon_color=71E8F1" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toHarsh&layout=compact&bg_color=171717&text_color=ffffff&icon_color=71E8F1" />
 </div>
 
-<div>
-<br><h2>📫 How To Reach Me:</h2>
-<h5>Visit <a href="https://toharsh.github.io/" target="_blank" style="color: blueviolet;">My Website</a> ,choose a communication medium and connect!</h5>
-</div>
 
 
