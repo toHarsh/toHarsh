@@ -6,7 +6,7 @@ Working Simultaneously on React, Flutter, Flask and Web-Scrapping(Selenium and B
 <br><h1>🌱 My new interests are</h1>
 Machine Learning, Ethical Hacking, Web-Scrapping, Laws of UX......many more light years to cover!
 <br><h1>📫 How to reach me:</h1>
-visit [My Website](https://toharsh.github.io/), choose a communication medium and connect!
+visit <a href="https://toharsh.github.io/" target="_blank" style="color: blueviolet;">My Website</a> ,choose a communication medium and connect!
 <br><h1>🛠️ Languages| Frameworks| Tools I work on...</h1>
 <div style="display:flex;">
     <a><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Html"></a>
@@ -29,6 +29,6 @@ visit [My Website](https://toharsh.github.io/), choose a communication medium an
 
 <br><h1>📈 Github Repo Stats</h1>
 <div style="display:flex;">
-![Github stats](https://github-readme-stats.vercel.app/api?username=toHarsh)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toHarsh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/?username=toHarsh" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toHarsh&layout=compact" />
 </div>
