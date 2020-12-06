@@ -1,6 +1,6 @@
 ### Hi there 👋
-<div style="dispay:flex">
-<img height="100" style="text-align: center;" src="https://raw.githubusercontent.com/toHarsh/toHarsh.github.io/main/static/images/banner-image.png" alt="profile">
+<div style="display:flex">
+<img height="200" style="text-align: center;" src="https://raw.githubusercontent.com/toHarsh/toHarsh.github.io/main/static/images/banner-image.png" alt="profile">
     <p style="text-align: center;">I am Harsh Kothari. Anything realted to Websites aka web-dev and Mobile apps aka app-dev excites me. My Goal: Automate all those daily life tasks that are menial but we still have to do it, using code.
     </p>
 
