@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-<!--
-**toHarsh/toHarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Harsh Kothari. Anything realted to Websites aka web-dev and Mobile apps aka app-dev excites me. My Goal: Automate all those daily life tasks that are menial but we still have to do it, using code.
 
 Here are some ideas to get you started:
 
