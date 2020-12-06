@@ -29,6 +29,7 @@
 </div>
 <br><h2>📈 Github Repo Stats</h2>
 <div style="display:flex;">
-<img src="https://github-readme-stats.vercel.app/api/?username=toHarsh" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toHarsh&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=toHarsh&bg_color=171717&text_color=ffffff&icon_color=71E8F1" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toHarsh&layout=compact&bg_color=171717&text_color=ffffff&icon_color=71E8F1" />
+
 </div>
