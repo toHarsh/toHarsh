@@ -3,8 +3,6 @@ I am Harsh Kothari. Anything realted to Websites aka web-dev and Mobile apps aka
 
 <h1>💻 I’m currently working on</h1>
 Working Simultaneously on React, Flutter, Flask and Web-Scrapping(Selenium and Beautiful-Soup) based projects. But I wish to focus more on Machine learning.
-<br><h1>🌱 My new interests are</h1>
-Machine Learning, Ethical Hacking, Web-Scrapping, Laws of UX......many more light years to cover!
 <br><h1>📫 How to reach me:</h1>
 visit <a href="https://toharsh.github.io/" target="_blank" style="color: blueviolet;">My Website</a> ,choose a communication medium and connect!
 <br><h1>🛠️ Languages| Frameworks| Tools I work on...</h1>
