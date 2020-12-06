@@ -30,5 +30,5 @@ visit <a href="https://toharsh.github.io/" target="_blank" style="color: bluevio
 <br><h1>📈 Github Repo Stats</h1>
 <div style="display:flex;">
 <img src="https://github-readme-stats.vercel.app/api/?username=toHarsh" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toHarsh" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toHarsh&layout=compact" />
 </div>
