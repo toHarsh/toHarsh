@@ -1,8 +1,8 @@
 
 <img height="500" src="https://raw.githubusercontent.com/toHarsh/toHarsh.github.io/main/static/images/bg-4.png" alt="profile">
 
-<h2>💻 I’m currently working on</h2>
-Working Simultaneously on React, Flutter, Flask and Web-Scrapping(Selenium and Beautiful-Soup) based projects. But I wish to focus more on Machine learning.
+<h2 style="text-align: center;">💻 I’m currently working on</h2>
+<p style="text-align: center;">Working Simultaneously on React, Flutter, Flask and Web-Scrapping(Selenium and Beautiful-Soup) based projects. But I wish to focus more on Machine learning.</p>
 <br><h2>🌱 I’m currently learning</h2>
 Machine Learning, Ethical Hacking, Web-Scrapping, Laws of UX......many more light years to cover!
 <br><h2>📫 How to reach me:</h2>
