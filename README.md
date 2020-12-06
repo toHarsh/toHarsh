@@ -4,7 +4,7 @@
 <h2 style="text-align: center;">💻 I’m Currently Working On</h2>
 <p>Working Simultaneously on React, Flutter, Flask and Web-Scrapping(Selenium and Beautiful-Soup) based projects. But I wish to focus more on Machine learning.</p>
 <br><h2>🌱 My New Interests Are</h2>
-<p>Machine Learning, Ethical Hacking, Web-Scrapping, Laws of UX......many more light years to cover!</p>
+<h5>Machine Learning, Ethical Hacking, Web-Scrapping, Laws of UX......many more light years to cover!</h5>
 <br><h2>📫 How To Reach Me:</h2>
 
 <p>Visit <a href="https://toharsh.github.io/" target="_blank" style="color: blueviolet;">My Website</a> ,choose a communication medium and connect!</p>
