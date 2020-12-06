@@ -30,6 +30,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toHarsh&layout=compact&bg_color=171717&text_color=ffffff&icon_color=71E8F1" />
 
 </div>
+<br>
 <br><h2>📫 How To Reach Me:</h2>
 
 <h5>Visit <a href="https://toharsh.github.io/" target="_blank" style="color: blueviolet;">My Website</a> ,choose a communication medium and connect!</h5>
