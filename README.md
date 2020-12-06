@@ -8,4 +8,6 @@ Machine Learning, Ethical Hacking, Web-Scrapping, Laws of UX......many more ligh
 -### 📫 How to reach me: ...
 visit [My Website](https://toharsh.github.io/), choose a communication medium and connect!
 -### 🛠️ Languages| Frameworks| Tools I work on...
-[a link](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
+<div style="display:flex;">
+  <a><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Html"></a>
+</div>
