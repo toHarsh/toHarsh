@@ -29,3 +29,4 @@ visit [My Website](https://toharsh.github.io/), choose a communication medium an
 
 <br><h1>📈 Github Repo Stats</h1>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=toHarsh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toHarsh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
