@@ -1,7 +1,12 @@
 <img height="500" src="https://raw.githubusercontent.com/toHarsh/toHarsh.github.io/main/static/images/bg-4.png" alt="profile">
 
-<h1 style="text-align: center;">💻 I’m Currently Working On</h1>
-<h5>Working Simultaneously on React, Flutter, Flask and Web-Scrapping(Selenium and Beautiful-Soup) based projects. But I wish to focus more on Machine learning. <font color="#71E8F1">New Interests:</font> Machine Learning, Ethical Hacking, Web-Scrapping, Laws of UX......many more light years to cover!</h5>
+<h1 style="text-align: center;">👨🏻‍💻 About me!</h1>
+<h5>Interests and good Experience in: Full-Stack Web Development and Designing | Flutter Development | UI/UX Designing | React.js....more light years to cover.
+    <br>
+    Currently Working:
+    Working Simultaneously on React, Flutter, Flask and Web-Scrapping(Selenium and Beautiful-Soup) based projects. But I wish to focus more on Machine learning. 
+    <br>New Interests: Machine Learning, Ethical Hacking, Web-Scrapping, Laws of UX......many more light years to cover!</h5>
+    
 <br><h1>🛠️ Languages| Frameworks| Tools I work on...</h1>
 <div style="display:flex;">
   <a><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Html"></a>
