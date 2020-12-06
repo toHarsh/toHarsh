@@ -1,14 +1,14 @@
 
 <img height="500" src="https://raw.githubusercontent.com/toHarsh/toHarsh.github.io/main/static/images/bg-4.png" alt="profile">
 
-<h2>💻 I’m currently working on</h2><hr>
+<h2>💻 I’m currently working on</h2>
 Working Simultaneously on React, Flutter, Flask and Web-Scrapping(Selenium and Beautiful-Soup) based projects. But I wish to focus more on Machine learning.
-<br><h2>🌱 I’m currently learning</h2><hr>
+<br><h2>🌱 I’m currently learning</h2>
 Machine Learning, Ethical Hacking, Web-Scrapping, Laws of UX......many more light years to cover!
-<br><h2>📫 How to reach me:</h2><hr>
+<br><h2>📫 How to reach me:</h2>
 
 Visit <a href="https://toharsh.github.io/" target="_blank" style="color: blueviolet;">My Website</a> ,choose a communication medium and connect!
-<br><h2>🛠️ Languages| Frameworks| Tools I work on...</h2><hr>
+<br><h2>🛠️ Languages| Frameworks| Tools I work on...</h2>
 <div style="display:flex;">
   <a><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Html"></a>
   <a><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></a>
