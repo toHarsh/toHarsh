@@ -2,11 +2,11 @@
 <img src="https://mir-s3-cdn-cf.behance.net/0fcdeebc82176fba5068941cdffa9abb/bec08051-88a9-420f-917c-548b82411f81_rwc_228x0x2941x410x3200.png?h=725ea1743b638c6c5164c30dc861190f" alt="profile">
 
 <h1 style="text-align: center;">👨🏻‍💻 About me!</h1>
-<h5>Building Experiences with minimalism | Interests and good Experience in: Full-Stack Web Development and Designing | Flutter Development | UI/UX Designing | React.js....more light years to cover.
+<h5>Creating Experiences with minimalism | Interests and good Experience in: Full-Stack Web Development and Designing | MERN Stack | Flutter Development | UI/UX Designing.
     <br>
     Currently Working:
     Working Simultaneously on React, Flutter, Flask and Web-Scrapping(Selenium and Beautiful-Soup) based projects. But I wish to focus more on UX Design ond Development. 
-    <br>New Interests: Design Thinking, Flutter Dev, Machine Learning & Web-Scrapping.</h5>
+    <br>New Interests: Design Thinking, Flutter Dev, Blockchain.</h5>
     
 <br><h1>🛠️ Languages| Frameworks| Tools I work on...</h1>
 <div style="display:flex;">
@@ -30,7 +30,7 @@
 
 <div>
 <br><h1>📫 How To Reach Me:</h1>
-<h5>Visit <a href="https://toharsh.github.io/" target="_blank" style="color: blueviolet;">My Website</a> ,choose a communication medium and connect!</h5>
+<h5>Visit <a href="https://harshkothari.tech/" target="_blank" style="color: blueviolet;">My Website</a> ,choose a communication medium and connect!</h5>
 </div>
 
 <br><h1>📈 Github Repo Stats</h1>
