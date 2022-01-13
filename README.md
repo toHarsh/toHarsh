@@ -30,7 +30,7 @@
 
 <div>
 <br><h1>📫 How To Reach Me:</h1>
-<h5>Visit <a href="https://harshkothari.tech/" target="_blank" style="color: blueviolet;">My Website</a> ,choose a communication medium and connect!</h5>
+<h5>Visit <a href="https://harshkothari.in/" target="_blank" style="color: blueviolet;">My Website</a> ,choose a communication medium and connect!</h5>
 </div>
 
 <br><h1>📈 Github Repo Stats</h1>
